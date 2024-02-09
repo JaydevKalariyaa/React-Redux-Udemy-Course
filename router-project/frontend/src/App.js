@@ -24,13 +24,16 @@ import HomePage from "./pages/HomePage";
 import EventDetailPage from "./pages/EventDetailPage";
 import EditEventPage from "./pages/EditEventPage";
 import EventsPage from "./pages/EventsPage";
-import NewEventPage, { eventUpdateloader } from "./pages/NewEventPage";
+import NewEventPage, { eventAddloader } from "./pages/NewEventPage";
 import Root from "./pages/Root";
 import EventRoot from "./pages/EventRoot";
 import { eventLoader } from "./pages/EventsPage";
 import Error from "./pages/Error";
-import { eventDetailloader } from "./pages/EventDetailPage";
+import { eventDetailloader, eventDeleteAction } from "./pages/EventDetailPage";
 import { ToastContainer } from "react-toastify";
+import { eventUpdateloader } from "./pages/EditEventPage";
+import NewsletterPage, { action as newsletterAction } from "./pages/Newsletter";
+
 function App() {
   const router = createBrowserRouter([
     {
@@ -55,6 +58,7 @@ function App() {
               path: ":eventId",
               element: <EventDetailPage />,
               loader: eventDetailloader,
+              action: eventDeleteAction,
             },
             {
               path: ":eventId/edit",
@@ -65,9 +69,14 @@ function App() {
             {
               path: "new",
               element: <NewEventPage />,
-              action: eventUpdateloader,
+              action: eventAddloader,
             },
           ],
+        },
+        {
+          path: "newsletter",
+          element: <NewsletterPage />,
+          action: newsletterAction,
         },
       ],
     },

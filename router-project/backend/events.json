@@ -1,1 +1,74 @@
-{"events":[{"title":"dfg","image":"https://www.oyorooms.com/blog/wp-content/uploads/2018/02/type-of-event.jpg","date":"2024-02-10","description":"fb xcfxd","id":"4c9f918b-3e58-4236-bc5c-0a501ee7ae29"},{"title":"jay","image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fnature%2F&psig=AOvVaw3Bn5vYoAB3mvpD8EuokEGh&ust=1707541593370000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCxzKK-nYQDFQAAAAAdAAAAABAD","date":"2024-02-10","description":"fgfcv","id":"1625cfd0-c0d6-4d2b-87d8-02e44bd4168b"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
+{
+  "events": [
+    {
+      "title": "jay",
+      "image": "https://www.oyorooms.com/blog/wp-content/uploads/2018/02/type-of-event.jpg",
+      "date": "2024-02-10",
+      "description": "fgfcv",
+      "id": "930065f9-4609-4984-a8ed-0c7d94e1833b"
+    },
+    {
+      "title": "jay",
+      "image": "https://www.oyorooms.com/blog/wp-content/uploads/2018/02/type-of-event.jpg",
+      "date": "2024-02-10",
+      "description": "fgfcv",
+      "id": "1f5fb300-b33b-4562-b410-50fd1f0ca84e"
+    },
+    {
+      "title": "jay",
+      "image": "https://www.oyorooms.com/blog/wp-content/uploads/2018/02/type-of-event.jpg",
+      "date": "2024-02-10",
+      "description": "fgfcv",
+      "id": "6dd0aceb-88e8-432e-9ad5-ebb73d03c465"
+    },
+    {
+      "title": "jay",
+      "image": "https://www.oyorooms.com/blog/wp-content/uploads/2018/02/type-of-event.jpg",
+      "date": "2024-02-10",
+      "description": "fgfcv",
+      "id": "f38b7358-0ae9-4ba0-ac9c-9123e0af98e4"
+    },
+    {
+      "title": "rgh",
+      "image": "https://www.oyorooms.com/blog/wp-content/uploads/2018/02/type-of-event.jpg",
+      "date": "2024-02-10",
+      "description": "dfhg",
+      "id": "32dac7bd-de8b-41ea-ae7f-72b599cde046"
+    },
+    {
+      "title": "df",
+      "image": "https://www.oyorooms.com/blog/wp-content/uploads/2018/02/type-of-event.jpg",
+      "date": "2024-03-10",
+      "description": "ergt",
+      "id": "f1d4cfaa-a515-4532-a0fb-caeaaf8b7d74"
+    },
+    {
+      "title": "efg",
+      "image": "https://www.oyorooms.com/blog/wp-content/uploads/2018/02/type-of-event.jpg",
+      "date": "2024-02-10",
+      "description": "safds",
+      "id": "bf2370f9-b840-49e9-9c55-513ce5dc0cc9"
+    },
+    {
+      "title": "dfg",
+      "image": "https://www.oyorooms.com/blog/wp-content/uploads/2018/02/type-of-event.jpg",
+      "date": "2024-02-10",
+      "description": "fb xcfxd",
+      "id": "4c9f918b-3e58-4236-bc5c-0a501ee7ae29"
+    },
+    {
+      "title": "jay",
+      "image": "https://www.oyorooms.com/blog/wp-content/uploads/2018/02/type-of-event.jpg",
+      "date": "2024-02-10",
+      "description": "fgfcv",
+      "id": "1625cfd0-c0d6-4d2b-87d8-02e44bd4168b"
+    },
+    {
+      "id": "e1",
+      "title": "A dummy event",
+      "date": "2023-02-22",
+      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+      "description": "Join this amazing event and connect with fellow developers."
+    }
+  ]
+}

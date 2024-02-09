@@ -61,13 +61,3 @@ function EventForm({ method, event }) {
 }
 
 export default EventForm;
-
-export const eventUpdateloader = async ({ params }) => {
-  let id = params.eventId;
-  const response = await axios.post(`http://localhost:8080/events`);
-
-  if (!response.ok) {
-    throw json({ message: "Error in Fetching Event" }, { status: 500 });
-  }
-  return response;
-};
